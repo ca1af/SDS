@@ -23,8 +23,9 @@
 #### Spring Boot
 - Java 17
 - Spring Data JPA
-- Spring Boot Security
-- Spring Boot Batch
+- QueryDSL
+- Spring Security
+- Spring Batch
 
 #### Build tool
 - Gradle
